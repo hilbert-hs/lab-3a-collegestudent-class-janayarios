@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21949093)
 # Lab_3A_College_Student_Class
 
 For this problem, you will be creating a class and using the Main class to test your output.  Leave the Main class alone for now and create your `CollegeStudent` class in the CollegeStudent file. Define this class as described below.  All variables should be declared as private and all methods as public.  
